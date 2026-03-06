@@ -18,11 +18,11 @@ Customer churn is a major problem for telecom companies. Predicting churn helps 
 1. Data Cleaning and Preprocessing
 2. Exploratory Data Analysis (EDA)
 3. Feature Engineering
-4. Model Training (Logistic Regression, Random Forest)
+4. Model Training (Decision Tree, Random Forest, XGBoost)
 5. Model Evaluation
 
 ## Model Performance
-Achieved ~X% accuracy on the test dataset.
+Achieved 84% accuracy on the test dataset with the help of Random Forest Algorithm.
 
 ## Future Improvements
 - Hyperparameter tuning
